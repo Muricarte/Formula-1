@@ -6,6 +6,7 @@ Este projeto consiste em um dashboard interativo desenvolvido no Power BI para a
 O dashboard foi construído com foco em visualização de dados, experiência do usuário e navegação interativa, facilitando a obtenção de insights relevantes sobre o campeonato.
 
 🎯 Funcionalidades
+
 🏁 Corridas
 Análise das corridas realizadas.
 Informações sobre circuitos e temporadas.
